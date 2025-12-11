@@ -1,0 +1,7 @@
+{
+  "name": "Voice Calendar Agent",
+  "description": "A Voice-First PWA utilizing Gemini 2.5 Flash to manage Google Calendar and Tasks via natural language.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
